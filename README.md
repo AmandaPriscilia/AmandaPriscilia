@@ -1,4 +1,4 @@
-- ???? Hi, I'm <AmandaPriscilia>
+- ???? Hi, I'm AmandaPriscilia
 - ???? I'm interested in Software Engineering and Cloud Engineering
 - ???? I'm currently learning Front-End Web Development Learning Path
 - ????️ I'm looking to collaborate on CityCare App project
