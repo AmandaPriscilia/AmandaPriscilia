@@ -1,5 +1,5 @@
 - ???? Hi, I'm AmandaPriscilia
-- ???? I'm interested in Software Engineering and UI/UX design
+- ???? I'm interested in Software Engineering and Machine Learning
 - ???? How to reach me on
 <a href="https://www.instagram.com/mndprscl7/?hl=en" target="_blank">Instagram</a>,
 <a href="https://www.linkedin.com/in/priscilialz0333/" target="_blank">LinkedIn</a>, and
